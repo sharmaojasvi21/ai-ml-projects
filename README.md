@@ -1,7 +1,4 @@
-ai-ml-projects
-A collection of ML and AI projects built during my internship and self-learning journey
-<br>
-Author - Ojasvi Sharma (gitlearning)
+
 
 # 🎓 Student Marks Predictor
 
