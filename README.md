@@ -1,5 +1,5 @@
-# learning-DevOps
-hi folks, this repo will contain all the learning devops practices!!.
+ai-ml-projects
+A collection of ML and AI projects built during my internship and self-learning journey
 <br>
 Author - Ojasvi Sharma (gitlearning)
 
